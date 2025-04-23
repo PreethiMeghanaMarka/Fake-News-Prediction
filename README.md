@@ -29,8 +29,11 @@ This is a simple web application that predicts whether a news article or headlin
 ## 📂 Project Structure
 
 project-folder/
+
 │
+
 ├── app.py             # Flask backend server
+
 ├── train_model.py     # Script to train and save the machine learning model
 
 ├── model.pkl          # Trained Logistic Regression model (saved using pickle)
